@@ -36,6 +36,10 @@
 
 ## --== 其他 ==--
 
+### [牛](https://gitee.com/liaoxuefeng/lego-moc-design/tree/master/bull) (红/黑两色，炒股必备)
+
+![牛](https://gitee.com/liaoxuefeng/lego-moc-design/raw/master/bull/bull.png "牛")
+
 ### [灭霸](https://gitee.com/liaoxuefeng/lego-moc-design/tree/master/thanos-cube)
 
 ![灭霸](https://gitee.com/liaoxuefeng/lego-moc-design/raw/master/thanos-cube/thanos.png "灭霸")
