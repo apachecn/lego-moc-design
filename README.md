@@ -40,6 +40,14 @@
 
 ![牛](https://gitee.com/liaoxuefeng/lego-moc-design/raw/master/bull/bull.png "牛")
 
+### [考拉](https://gitee.com/liaoxuefeng/lego-moc-design/tree/master/koala)
+
+![考拉](https://gitee.com/liaoxuefeng/lego-moc-design/raw/master/koala/koala.png "考拉")
+
+### [小老鼠](https://gitee.com/liaoxuefeng/lego-moc-design/tree/master/mouse)
+
+![小老鼠](https://gitee.com/liaoxuefeng/lego-moc-design/raw/master/mouse/mouse.png "小老鼠")
+
 ### [灭霸](https://gitee.com/liaoxuefeng/lego-moc-design/tree/master/thanos-cube)
 
 ![灭霸](https://gitee.com/liaoxuefeng/lego-moc-design/raw/master/thanos-cube/thanos.png "灭霸")
